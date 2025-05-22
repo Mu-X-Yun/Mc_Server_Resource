@@ -1,0 +1,2 @@
+# Mc_Server_Resource
+用于Minecraft服务器的材质包
