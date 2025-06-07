@@ -1,6 +1,6 @@
 # Mc_Server_Resource
 用于Minecraft服务器的材质包
 
-Japanese School
-作者：NicoRTX
-来源：https://www.planetminecraft.com/project/japanese-school-5508168/
+芜湖一中材质包
+作者：B站 @冷亦春
+来源：https://b23.tv/UDDF9bZ
