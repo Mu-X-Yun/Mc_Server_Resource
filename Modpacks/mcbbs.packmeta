@@ -1,0 +1,458 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "PoJian",
+  "version": "1.0",
+  "author": "牧筱云",
+  "description": "",
+  "fileApi": "",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.12.2"
+    },
+    {
+      "id": "forge",
+      "version": "14.23.5.2860"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_G5"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "config/alet-client.json",
+      "hash": "1a2957193c7005577f8677a8cac65fa8489c48ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/alet.json",
+      "hash": "6c3a089e524ee644aebbc01913a3c1c36fff8b81",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/B3M.cfg",
+      "hash": "c7dc3e0aecd29538dd0d12d3bc7f1e799ab383f1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/cfm.cfg",
+      "hash": "901d4f19b4aa016c29c4a915003cade543059898",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chiselsandbits.cfg",
+      "hash": "d43cbe9f11482426a6136b60adbab8f1c70fc1b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/chiselsandbits_clipboard.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/creativecore-client.json",
+      "hash": "2474a7a3fbffd3837d18da09176fee6765b31d60",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/creativecore.json",
+      "hash": "929c0470dfdb25de919503b378ca2a76bd47fb6b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/foamfix.cfg",
+      "hash": "8c0807cd779dbc6ca90b8c4f0465a994b5f0652d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge.cfg",
+      "hash": "04eb57dfcf4a5780ef45adb2f29db33cd9a91acd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forgeChunkLoading.cfg",
+      "hash": "77694a92f84b4b6f23c399826f9b107ebb9cd4a7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/journeymap_ModInfo.cfg",
+      "hash": "24b9155bb1b5e7bfc95fa856d6214e026275755f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/journeymap_server.cfg",
+      "hash": "a77f42cc8247068729d0d8ed4a4e269c86dbd2ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/littletiles-client.json",
+      "hash": "a358c5b5bc8435362e37319cec1465c7278b7d05",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/littletiles.json",
+      "hash": "7b8f8a0d3743ca7d2bc05b4ad264b472fd95b4f8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/replaymod.cfg",
+      "hash": "6fdb488686a5ea1924c97f6abfb26f7271519946",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/splash.properties",
+      "hash": "b4f3c88daebe21ae1fcc8347ced2ab2b0fc980f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/vbe.cfg",
+      "hash": "f49928d407955193209cf5766a8fb21c3a9b8d57",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/worldedit/worldedit.properties",
+      "hash": "b968c0b692740410519e33552712a13edd8c2561",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/worldeditcuife2.cfg",
+      "hash": "6aeaaa6c66e256c6af5a0c92fab16bd95c87848e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/README.txt",
+      "hash": "0a2d836422b2b8e8259d903b4f452fbfd5dbd45c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Bold.ttf",
+      "hash": "bf3023d6a80d22c939aa4c8cd4d8a12c0ef70bdf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-ExtraLight.ttf",
+      "hash": "a3946f9ebddbbabe67675e214630522b0ebb5b87",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Heavy.ttf",
+      "hash": "b91fa3dd046291b4921b5510e84d5782d329159f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Light.ttf",
+      "hash": "c5cd704395ae49c0ac9166b5e54faa2fd9b27c92",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Medium.ttf",
+      "hash": "5cc1b1e6d0fbf32ab9fdaec37dc53808d01de558",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Regular.ttf",
+      "hash": "a03b718fe8491af982005f9531950f9f4903cbf1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-SemiBold.ttf",
+      "hash": "12e4169fd70bb67a3688195d55296ab475525f98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/方正大黑简体.ttf",
+      "hash": "6eaf10b81a4600da7a4af80152872b9bf5757c7a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/爱度综艺简体.ttf",
+      "hash": "da55e8364e26c66d2ea1aac66201197d78a92a1a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/芜湖一中建筑字体.ttf",
+      "hash": "d6bd2ef747d32af4a6469135d194ac0093a7bb8e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/迷你简美黑.ttf",
+      "hash": "dc35642e63bc347e4316d5ca4243741558822acc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "fonts/迷你简隶书(1).TTF",
+      "hash": "1be9b4162a9e06031b6608b8cfccf72640e1beb5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "309d4b1eec295e3439c520daf20758aa4f9b31d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/A_Little_Extra_Tiles-1.0.23.jar",
+      "hash": "388de2035f6de423d724ad04a94160dd635055b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/chiselsandbits-14.33.jar",
+      "hash": "0e6f159254e6899651087e5b1464bac91698d1d3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/CreativeCore_v1.10.70_mc1.12.2.jar",
+      "hash": "0f1b93d986e81ce228acdf9bea25caa1bae25dc4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/foamfix-0.10.14-1.12.2.jar",
+      "hash": "b7f247a306e9521f3bade46ea643989702be6a14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Forgelin-1.8.3.jar",
+      "hash": "28c54988ad8c88e262c8e211b450782365921c8c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/furniture-6.3.1-1.12.2.jar",
+      "hash": "05fcc338d115ba09266ab2da39027ae319efba18",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/journeymap-1.12.2-5.7.1p3.jar",
+      "hash": "1d3975dd5399c9511f2913b98e98356437bd00bf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kirosblocks-1.2.jar",
+      "hash": "a1f2ad15d7f2cb31b9d738a3af667ed2f8c67703",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/LittleTiles_v1.5.76_mc1.12.2.jar",
+      "hash": "2d697f73c8ae0406683a210558e6bd00ea3d8042",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/lt3dimporter-0.7.jar",
+      "hash": "2d880e541c392c3a2a290c9f0a6b6a3d96da9814",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ModernLights-1.0.2_1.12.jar",
+      "hash": "a9b7ca6953957d13fd6f432b7bb3f8f934db00e0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/replaymod-1.12.2-2.6.20.jar",
+      "hash": "55f9ca0d14a364e24c35fbf3b53a12d6bb029773",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Vanilla+Builders+Extension-1.12.2-1.0.8.jar",
+      "hash": "35423457fa7bb8f9ece65ba10248eb9917720de5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/WorldEdit CUI Forge Edition 2-2.1.2-mf-1.12.2-14.23.5.2768.jar",
+      "hash": "9d450df21dd6cb44e8a8c03642f8a931b18b4a72",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/WorldEdit.jar",
+      "hash": "057b9b4d63e223a0f754b556fd3a56aaa87a1489",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-dx8.dll",
+      "hash": "50348b2958b017df3bf30d7915ab61a4cb9a2b33",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-dx8_64.dll",
+      "hash": "5d9a7d3fb6224dab97aaff7bd9430232732d9be8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw.dll",
+      "hash": "4d982f408e815519c2289cd720c78338392a9887",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw_64.dll",
+      "hash": "067c11135f9ebeb554d5f80b7a8a5244c0f3b7d7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-wintab.dll",
+      "hash": "e7b9beead279298611d0c4753089d3af07c4c9e9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "6f1661fc6952312a9f34dfa6d3840b46e9c85e63",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl64.dll",
+      "hash": "f4013116d6750829851370ed19a9eaf8251ad6e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL32.dll",
+      "hash": "ede381bf55e7d0cd3a7e058237bbc66a8ff63837",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL64.dll",
+      "hash": "97362fba53dfb6d9581b8c64829f4b1d98a97855",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
+      "hash": "7fdbc1a8a9c0e550e95b7444369529c823f7d24f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
+      "hash": "d48b1c8b9e20f9e4de21497d6dda1fba2f0d84d1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "16b10be1bb7d4c7d223d5b131744a5be0d13a6b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/A-Railgun‘s.zip",
+      "hash": "1d538b90b9863684d6cc5e424e04e3e12205a165",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/A-Railgun‘s.zip.txt",
+      "hash": "f960d3546541d07336ba2bb5f92e0d2f539e4c25",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E12汉化版.zip",
+      "hash": "634d76bd9bce15ee8a1202c03b545341bb55eb22",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E8【≥1.12\u0026OF最新\u0026光线追踪\u0026Umsoea R8配套】.zip",
+      "hash": "86de20520ce1fafdd4b2ebc74872e6fdfb4e173f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E8【≥1.12\u0026OF最新\u0026光线追踪\u0026Umsoea R8配套】.zip.txt",
+      "hash": "d088f2b7d1a37aba41b6b0f402bfad43d45a572f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip",
+      "hash": "89e8eadd27ea53a78706a1aa339147a85331d7b2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/SEUS-v10.1超级.zip",
+      "hash": "181e907e9c486548a83637be00adcc4c73feb03f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "shaderpacks/SEUS_PTGI_E11.zip",
+      "hash": "2e13747237aec3a6ed642ceb84638ceddd58fd4e",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 4096,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}
