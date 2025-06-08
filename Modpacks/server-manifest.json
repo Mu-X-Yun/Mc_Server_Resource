@@ -1,8 +1,8 @@
 {
-  "name": "1.12.2",
+  "name": "PoJian",
   "author": "牧筱云",
-  "version": "1.0",
-  "description": "",
+  "version": "0.1",
+  "description": "活动破茧专用整合包，测试中",
   "fileApi": "https://github.com/Mu-X-Yun/Mc_Server_Resource/raw/refs/heads/main/Modpacks",
   "files": [
     {
