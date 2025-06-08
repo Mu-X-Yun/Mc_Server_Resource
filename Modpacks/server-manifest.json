@@ -1,0 +1,767 @@
+{
+  "name": "1.12.2",
+  "author": "牧筱云",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://github.com/Mu-X-Yun/Mc_Server_Resource/raw/refs/heads/main/Modpacks",
+  "files": [
+    {
+      "path": "config/alet-client.json",
+      "hash": "1a2957193c7005577f8677a8cac65fa8489c48ae"
+    },
+    {
+      "path": "config/alet.json",
+      "hash": "6c3a089e524ee644aebbc01913a3c1c36fff8b81"
+    },
+    {
+      "path": "config/B3M.cfg",
+      "hash": "c7dc3e0aecd29538dd0d12d3bc7f1e799ab383f1"
+    },
+    {
+      "path": "config/cfm.cfg",
+      "hash": "901d4f19b4aa016c29c4a915003cade543059898"
+    },
+    {
+      "path": "config/chiselsandbits.cfg",
+      "hash": "d43cbe9f11482426a6136b60adbab8f1c70fc1b6"
+    },
+    {
+      "path": "config/chiselsandbits_clipboard.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/creativecore-client.json",
+      "hash": "2474a7a3fbffd3837d18da09176fee6765b31d60"
+    },
+    {
+      "path": "config/creativecore.json",
+      "hash": "929c0470dfdb25de919503b378ca2a76bd47fb6b"
+    },
+    {
+      "path": "config/foamfix.cfg",
+      "hash": "8c0807cd779dbc6ca90b8c4f0465a994b5f0652d"
+    },
+    {
+      "path": "config/forge.cfg",
+      "hash": "04eb57dfcf4a5780ef45adb2f29db33cd9a91acd"
+    },
+    {
+      "path": "config/forgeChunkLoading.cfg",
+      "hash": "77694a92f84b4b6f23c399826f9b107ebb9cd4a7"
+    },
+    {
+      "path": "config/journeymap_ModInfo.cfg",
+      "hash": "24b9155bb1b5e7bfc95fa856d6214e026275755f"
+    },
+    {
+      "path": "config/journeymap_server.cfg",
+      "hash": "a77f42cc8247068729d0d8ed4a4e269c86dbd2ea"
+    },
+    {
+      "path": "config/littletiles-client.json",
+      "hash": "a358c5b5bc8435362e37319cec1465c7278b7d05"
+    },
+    {
+      "path": "config/littletiles.json",
+      "hash": "7b8f8a0d3743ca7d2bc05b4ad264b472fd95b4f8"
+    },
+    {
+      "path": "config/replaymod.cfg",
+      "hash": "6fdb488686a5ea1924c97f6abfb26f7271519946"
+    },
+    {
+      "path": "config/splash.properties",
+      "hash": "b4f3c88daebe21ae1fcc8347ced2ab2b0fc980f6"
+    },
+    {
+      "path": "config/vbe.cfg",
+      "hash": "f49928d407955193209cf5766a8fb21c3a9b8d57"
+    },
+    {
+      "path": "config/worldedit/worldedit.properties",
+      "hash": "b968c0b692740410519e33552712a13edd8c2561"
+    },
+    {
+      "path": "config/worldeditcuife2.cfg",
+      "hash": "6aeaaa6c66e256c6af5a0c92fab16bd95c87848e"
+    },
+    {
+      "path": "fonts/README.txt",
+      "hash": "0a2d836422b2b8e8259d903b4f452fbfd5dbd45c"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Bold.ttf",
+      "hash": "bf3023d6a80d22c939aa4c8cd4d8a12c0ef70bdf"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-ExtraLight.ttf",
+      "hash": "a3946f9ebddbbabe67675e214630522b0ebb5b87"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Heavy.ttf",
+      "hash": "b91fa3dd046291b4921b5510e84d5782d329159f"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Light.ttf",
+      "hash": "c5cd704395ae49c0ac9166b5e54faa2fd9b27c92"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Medium.ttf",
+      "hash": "5cc1b1e6d0fbf32ab9fdaec37dc53808d01de558"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-Regular.ttf",
+      "hash": "a03b718fe8491af982005f9531950f9f4903cbf1"
+    },
+    {
+      "path": "fonts/SourceHanSerifCN-SemiBold.ttf",
+      "hash": "12e4169fd70bb67a3688195d55296ab475525f98"
+    },
+    {
+      "path": "fonts/方正大黑简体.ttf",
+      "hash": "6eaf10b81a4600da7a4af80152872b9bf5757c7a"
+    },
+    {
+      "path": "fonts/爱度综艺简体.ttf",
+      "hash": "da55e8364e26c66d2ea1aac66201197d78a92a1a"
+    },
+    {
+      "path": "fonts/芜湖一中建筑字体.ttf",
+      "hash": "d6bd2ef747d32af4a6469135d194ac0093a7bb8e"
+    },
+    {
+      "path": "fonts/迷你简美黑.ttf",
+      "hash": "dc35642e63bc347e4316d5ca4243741558822acc"
+    },
+    {
+      "path": "fonts/迷你简隶书(1).TTF",
+      "hash": "1be9b4162a9e06031b6608b8cfccf72640e1beb5"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "309d4b1eec295e3439c520daf20758aa4f9b31d6"
+    },
+    {
+      "path": "journeymap/colorpalette.json",
+      "hash": "21565196db3b5c3f1230bf1ee79812e87e9d7a23"
+    },
+    {
+      "path": "journeymap/config/5.7/journeymap.core.config",
+      "hash": "05080541b827a99cf80967891217a3239314ee87"
+    },
+    {
+      "path": "journeymap/config/5.7/journeymap.fullmap.config",
+      "hash": "505772f73ef4ede6e9bbc0879a428af87d61b6d1"
+    },
+    {
+      "path": "journeymap/config/5.7/journeymap.minimap.config",
+      "hash": "c645712ec3dc66f3a96627c79aa0bfbfa5f4d7bd"
+    },
+    {
+      "path": "journeymap/config/5.7/journeymap.minimap2.config",
+      "hash": "91270198d50f6ae9768a823ba4164659125b6c72"
+    },
+    {
+      "path": "journeymap/config/5.7/journeymap.topo.config",
+      "hash": "35033c71cbbf569bf03bc9b3ad511839008d4605"
+    },
+    {
+      "path": "journeymap/config/5.7/journeymap.waypoint.config",
+      "hash": "469c5484fbcb5eb85eaf877226447a8fb1ead522"
+    },
+    {
+      "path": "journeymap/config/5.7/journeymap.webmap.config",
+      "hash": "9cffa9b829ca3bb6a74ded570a4ea8bb715461e6"
+    },
+    {
+      "path": "journeymap/data/mp/127~0~0~1~25565/DIM0/5/-1,0.png",
+      "hash": "5da20f88dddbf8c2bff05fea7c5661ed54947364"
+    },
+    {
+      "path": "journeymap/data/mp/127~0~0~1~25565/DIM0/day/-1,0.png",
+      "hash": "f918ece8b219fd2074489f394f02034b1af9663f"
+    },
+    {
+      "path": "journeymap/data/mp/127~0~0~1~25565/DIM0/day/0,0.png",
+      "hash": "d5b216b53e2c7c4f371b63cf1a236265439ff91d"
+    },
+    {
+      "path": "journeymap/data/mp/127~0~0~1~25565/DIM0/night/-1,0.png",
+      "hash": "1a8f05168e5ce29e7569e6ce0be6c3b1d7c3f5cd"
+    },
+    {
+      "path": "journeymap/data/mp/127~0~0~1~25565/DIM0/night/0,0.png",
+      "hash": "bab1efc6fb95d44ee16c422b56cb3ac93d24e598"
+    },
+    {
+      "path": "journeymap/data/mp/127~0~0~1~25565/DIM0/topo/-1,0.png",
+      "hash": "c347a0036808970559ed3f30a82895dc6889268c"
+    },
+    {
+      "path": "journeymap/data/mp/127~0~0~1~25565/DIM0/topo/0,0.png",
+      "hash": "716dd8b95a7e59360fdb44a92aaae9b29cc9e608"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/4/0,0.png",
+      "hash": "711af0ac4a99229c72edfa00b610ef87c00bb3c6"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/5/0,0.png",
+      "hash": "a22dff6f25ce7f7420888047b6179545232f526d"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/8/0,0.png",
+      "hash": "e76cab10dbead4c851f81308566c1ff0dc7baf2d"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/day/-1,0.png",
+      "hash": "4a7d8b45cec303467879235f839ff6470374188a"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/day/0,0.png",
+      "hash": "d2c3648eecf00655e0183271d0abaeb057d5e0b5"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/day/1,0.png",
+      "hash": "2f4ab4100b49e7447693c80256c401dfa03f4076"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/night/-1,0.png",
+      "hash": "83bb588310c92071046aaf123ff4230ac3a65255"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/night/0,0.png",
+      "hash": "9074399551c8133c202d057a7e829639e76d26dd"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/night/1,0.png",
+      "hash": "f938ba4b943868f5c9542ec751cc46aedb4c7ddb"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/topo/-1,0.png",
+      "hash": "171981f69995496d6fa2adaf4f7017a3f9ca8581"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/topo/0,0.png",
+      "hash": "788af19597a628bf5eb97ca702462735733ce72c"
+    },
+    {
+      "path": "journeymap/data/mp/frp~dad~com~17633/DIM0/topo/1,0.png",
+      "hash": "a2847595df2059f0493a4e4cb73a02159e146145"
+    },
+    {
+      "path": "journeymap/data/sp/芜湖一中MC工程4~0/DIM0/5/-1,0.png",
+      "hash": "a0a04f70e90a33029b6bbedad4998f15b63f72ac"
+    },
+    {
+      "path": "journeymap/data/sp/芜湖一中MC工程4~0/DIM0/day/-1,0.png",
+      "hash": "38c974dc9ad720620226f7b32733aba7b37924e8"
+    },
+    {
+      "path": "journeymap/data/sp/芜湖一中MC工程4~0/DIM0/night/-1,0.png",
+      "hash": "acf75d6b95a8a57203250682c992e866e2e073cf"
+    },
+    {
+      "path": "journeymap/data/sp/芜湖一中MC工程4~0/DIM0/topo/-1,0.png",
+      "hash": "fa79c5a0883dab239ed326f8c7a38068c381cb9f"
+    },
+    {
+      "path": "journeymap/icon/theme/default.theme.config",
+      "hash": "3bd6fa9af17717b6d0ccce4133b35f7626d4456d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_begin.png",
+      "hash": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_end.png",
+      "hash": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_inner.png",
+      "hash": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_begin.png",
+      "hash": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_end.png",
+      "hash": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_inner.png",
+      "hash": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_disabled.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_hover.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_off.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_on.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
+      "hash": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_hover.png",
+      "hash": "be10c006eab72f086d5cca11ec2bcd785d8ce2f4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_off.png",
+      "hash": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_on.png",
+      "hash": "26a258d5bd8490909fe269611aa4bd574bc94de1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/DesertTemple.theme2.json",
+      "hash": "a3d83b043da95ad37da725188ceeb366757fbfe9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/EndCity.theme2.json",
+      "hash": "9ee7ec3ffdec2c1f9261151e71634974db6fffc8"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/ForestMansion.theme2.json",
+      "hash": "ca3e1d41c0bba4005aa50c3ceb8a98c1fbb1dee6"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/about.png",
+      "hash": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/actions.png",
+      "hash": "5b88aac3387e5f63b5ba29c284191a99646c4629"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/alert.png",
+      "hash": "2c2178c4d11aa2f4f70e390441ecc3c2adc6966c"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/animals.png",
+      "hash": "1fc66426ce53560f90a0bca24890b0c8714b2d21"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/automap.png",
+      "hash": "1da71cdc3d72a1521e77f52923dbe9255d23f67f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/biome.png",
+      "hash": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/browser.png",
+      "hash": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/caves.png",
+      "hash": "562edb7762f675de702cdc7bc657d7446693880e"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/close.png",
+      "hash": "e5ca87379db037c679fb92d0072f784443afede4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/day.png",
+      "hash": "7bfe8be57f5a770ae008effd7d0cac955f92d91c"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/delete.png",
+      "hash": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/disable.png",
+      "hash": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/follow.png",
+      "hash": "c1b1f897797021eb5fae548382de10b97f946905"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/grid.png",
+      "hash": "09afd9fa4691b587c929c6ccdf7a636d5692dee1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/keys.png",
+      "hash": "1d89290ae4fafaaeefe5e68373a25ac1e99b6b56"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/layers.png",
+      "hash": "8806ccc808740ec8d6ec48c412c0d951f8e71212"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/monsters.png",
+      "hash": "a05471a2929bb4777a817a1118b1ac47de1020c1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/night.png",
+      "hash": "0f9fe8a76a4b0feaa219b091694b585e8d9ceeda"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/options.png",
+      "hash": "1e7f049470b34ed17319fd6c4b45e0ff75e06530"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/pets.png",
+      "hash": "4cb5c9ac069d5bb608f2b671efbf6457eee54842"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/players.png",
+      "hash": "171c188e205ae5c6d447e4c52cfb3af905e83f4f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/reset.png",
+      "hash": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/savemap.png",
+      "hash": "1e4bf7ac739866f58a1dee5498c45678fe49520f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/search.png",
+      "hash": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/server.png",
+      "hash": "f93f98b8561edae9cf52c96081e72b242e28ed66"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/theme.png",
+      "hash": "6ca282b7cbcea8e009ba4be265095b0e7a8b0973"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/topo.png",
+      "hash": "61f6b3c5c7983593a78f9771b1f4b3655415c3c5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/villagers.png",
+      "hash": "20979056701ba640c4c50cb5aff1ba9dd875cd91"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/waypoints.png",
+      "hash": "978ea1cdd28da49282d4456f061c2c924c20a70a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/zoomin.png",
+      "hash": "a93758aecf369719b0517212c979b983c29b4741"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/zoomout.png",
+      "hash": "3e20bc40df2b7667048ac037b85363f733881ed4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
+      "hash": "26adc50b1d9a1c13b4d26d70433649775ba5fe0a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
+      "hash": "4367fc3d812d8d5f81c6746f701fcd135645b3b5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
+      "hash": "5e3b19479e3bc0bf3af60c4482e779787d5c2e52"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
+      "hash": "aa405337c289ec63a01e72b8f8e7a3841cc35c0d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
+      "hash": "123813da9ba84038e69af47787adb62000b7cc30"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
+      "hash": "ab425705e2ae45e4db27b6f1af974e8303ef788b"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
+      "hash": "da3be616803ff558b8980ccac8ba77d64fe9b39a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
+      "hash": "65e0f984f11c10b015d22126d90345e647400875"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
+      "hash": "3e7846fe3fc526c6bb7cf6497dd8a719eadeab84"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
+      "hash": "3a8dc933863889e61ad7476938957f8e5f439ff0"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
+      "hash": "fcf50a822335d1a9658175f3094e385c01800274"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
+      "hash": "3b63a83f6f8ba1dea73eff5f2bb0f2d324202bc9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
+      "hash": "44bdb215f3bad82e2c2192cd13bd679662f7a7d6"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
+      "hash": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_left.png",
+      "hash": "f3592b1ac4b9468c38e5b6d8332200e769e31355"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_right.png",
+      "hash": "5988717bde8ef0060b6dc920f655ebbbaaabce40"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_top.png",
+      "hash": "60ef85784d07de0d1ab0500560af9e8b5387aec5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
+      "hash": "691f58cc7ca8b938b857c8de077a08b883b66389"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_topright.png",
+      "hash": "b5edd14dfe4f8d55800da0de8b43e3fc00c96332"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
+      "hash": "a3884c4387c24963f666f51032e1766d87697bea"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
+      "hash": "63cbad15df737b563dc20ec9aa573c68e527aca5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
+      "hash": "df136d1e11230fa8d0fe0fb84f2081247f4262a9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
+      "hash": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_left.png",
+      "hash": "48a3168d150c7045ac459149e6ac770d00dc7026"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_right.png",
+      "hash": "8f3f23ff88192e6cc56172673680e4e669df894f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_top.png",
+      "hash": "08c8eeae6beec6a456207704751ec28208d604ab"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
+      "hash": "092d5e14d84f3a385176098541f41e75401ef91d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_topright.png",
+      "hash": "80ac51b7bbdd40d1982cbbe8d8644a0c4bbefd97"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/NetherFortress.theme2.json",
+      "hash": "e8ace1c6652343c3f3647c88a9dc44bdb04f7cd7"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/OceanMonument.theme2.json",
+      "hash": "29b64ee8830fc876491e134f1f6485bfaac27f64"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/Purist.theme2.json",
+      "hash": "6889bb94b1f6d74d3eb392599593a011ee2670b8"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/Stronghold.theme2.json",
+      "hash": "504bb40aea12eea7e23dbbd79dc6af803e9bd7fd"
+    },
+    {
+      "path": "journeymap/server/5.7/journeymap.server.default.config",
+      "hash": "d3db2c85bd6a1334aff021390760e05e1a121805"
+    },
+    {
+      "path": "journeymap/server/5.7/journeymap.server.dim-1.config",
+      "hash": "2d3131004ea783fc86bf4e09e8295349d15d4e8a"
+    },
+    {
+      "path": "journeymap/server/5.7/journeymap.server.dim0.config",
+      "hash": "892f35720540b71e1349650ebc0f50bbff8e6d55"
+    },
+    {
+      "path": "journeymap/server/5.7/journeymap.server.dim1.config",
+      "hash": "4e9ea7b6158a01aa35b64f9c9b615a2e7dbc3d9b"
+    },
+    {
+      "path": "journeymap/server/5.7/journeymap.server.global.config",
+      "hash": "8303654286a502ceb97137e97d9fb5d327eb2346"
+    },
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
+    {
+      "path": "mods/A_Little_Extra_Tiles-1.0.23.jar",
+      "hash": "388de2035f6de423d724ad04a94160dd635055b6"
+    },
+    {
+      "path": "mods/chiselsandbits-14.33.jar",
+      "hash": "0e6f159254e6899651087e5b1464bac91698d1d3"
+    },
+    {
+      "path": "mods/CreativeCore_v1.10.70_mc1.12.2.jar",
+      "hash": "0f1b93d986e81ce228acdf9bea25caa1bae25dc4"
+    },
+    {
+      "path": "mods/foamfix-0.10.14-1.12.2.jar",
+      "hash": "b7f247a306e9521f3bade46ea643989702be6a14"
+    },
+    {
+      "path": "mods/Forgelin-1.8.3.jar",
+      "hash": "28c54988ad8c88e262c8e211b450782365921c8c"
+    },
+    {
+      "path": "mods/furniture-6.3.1-1.12.2.jar",
+      "hash": "05fcc338d115ba09266ab2da39027ae319efba18"
+    },
+    {
+      "path": "mods/journeymap-1.12.2-5.7.1p3.jar",
+      "hash": "1d3975dd5399c9511f2913b98e98356437bd00bf"
+    },
+    {
+      "path": "mods/kirosblocks-1.2.jar",
+      "hash": "a1f2ad15d7f2cb31b9d738a3af667ed2f8c67703"
+    },
+    {
+      "path": "mods/LittleTiles_v1.5.76_mc1.12.2.jar",
+      "hash": "2d697f73c8ae0406683a210558e6bd00ea3d8042"
+    },
+    {
+      "path": "mods/lt3dimporter-0.7.jar",
+      "hash": "2d880e541c392c3a2a290c9f0a6b6a3d96da9814"
+    },
+    {
+      "path": "mods/ModernLights-1.0.2_1.12.jar",
+      "hash": "a9b7ca6953957d13fd6f432b7bb3f8f934db00e0"
+    },
+    {
+      "path": "mods/replaymod-1.12.2-2.6.20.jar",
+      "hash": "55f9ca0d14a364e24c35fbf3b53a12d6bb029773"
+    },
+    {
+      "path": "mods/Vanilla+Builders+Extension-1.12.2-1.0.8.jar",
+      "hash": "35423457fa7bb8f9ece65ba10248eb9917720de5"
+    },
+    {
+      "path": "mods/WorldEdit CUI Forge Edition 2-2.1.2-mf-1.12.2-14.23.5.2768.jar",
+      "hash": "9d450df21dd6cb44e8a8c03642f8a931b18b4a72"
+    },
+    {
+      "path": "mods/WorldEdit.jar",
+      "hash": "057b9b4d63e223a0f754b556fd3a56aaa87a1489"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-dx8.dll",
+      "hash": "50348b2958b017df3bf30d7915ab61a4cb9a2b33"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-dx8_64.dll",
+      "hash": "5d9a7d3fb6224dab97aaff7bd9430232732d9be8"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw.dll",
+      "hash": "4d982f408e815519c2289cd720c78338392a9887"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-raw_64.dll",
+      "hash": "067c11135f9ebeb554d5f80b7a8a5244c0f3b7d7"
+    },
+    {
+      "path": "natives-windows-x86_64/jinput-wintab.dll",
+      "hash": "e7b9beead279298611d0c4753089d3af07c4c9e9"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "6f1661fc6952312a9f34dfa6d3840b46e9c85e63"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl64.dll",
+      "hash": "f4013116d6750829851370ed19a9eaf8251ad6e1"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL32.dll",
+      "hash": "ede381bf55e7d0cd3a7e058237bbc66a8ff63837"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL64.dll",
+      "hash": "97362fba53dfb6d9581b8c64829f4b1d98a97855"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x64.dll",
+      "hash": "7fdbc1a8a9c0e550e95b7444369529c823f7d24f"
+    },
+    {
+      "path": "natives-windows-x86_64/SAPIWrapper_x86.dll",
+      "hash": "d48b1c8b9e20f9e4de21497d6dda1fba2f0d84d1"
+    },
+    {
+      "path": "shaderpacks/A-Railgun‘s.zip",
+      "hash": "1d538b90b9863684d6cc5e424e04e3e12205a165"
+    },
+    {
+      "path": "shaderpacks/A-Railgun‘s.zip.txt",
+      "hash": "f960d3546541d07336ba2bb5f92e0d2f539e4c25"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E12汉化版.zip",
+      "hash": "634d76bd9bce15ee8a1202c03b545341bb55eb22"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E8【≥1.12\u0026OF最新\u0026光线追踪\u0026Umsoea R8配套】.zip",
+      "hash": "86de20520ce1fafdd4b2ebc74872e6fdfb4e173f"
+    },
+    {
+      "path": "shaderpacks/SEUS PTGI E8【≥1.12\u0026OF最新\u0026光线追踪\u0026Umsoea R8配套】.zip.txt",
+      "hash": "d088f2b7d1a37aba41b6b0f402bfad43d45a572f"
+    },
+    {
+      "path": "shaderpacks/SEUS-Renewed-v1.0.1.zip",
+      "hash": "89e8eadd27ea53a78706a1aa339147a85331d7b2"
+    },
+    {
+      "path": "shaderpacks/SEUS-v10.1超级.zip",
+      "hash": "181e907e9c486548a83637be00adcc4c73feb03f"
+    },
+    {
+      "path": "shaderpacks/SEUS_PTGI_E11.zip",
+      "hash": "2e13747237aec3a6ed642ceb84638ceddd58fd4e"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.12.2"
+    },
+    {
+      "id": "forge",
+      "version": "14.23.5.2860"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_G5"
+    }
+  ]
+}
